@@ -22,6 +22,9 @@ status-website:
   navbar:
     - title: Home
       href: /
+      
+  i18n:
+      footer: This page is [open source]($REPO), powered by [CRZ.RO](https://crz.ro)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
