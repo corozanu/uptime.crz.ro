@@ -14,14 +14,12 @@ status-website:
   cname: status.crz.ro
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: uptime.crz.ro
-  introTitle: "**Uptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: Status CRZ
+  introTitle: "**Uptime Checker**"
   introMessage: text message
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
