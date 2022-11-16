@@ -1,23 +1,5 @@
 [
   {
-    "name": "CRZ.ro",
-    "url": "https://crz.ro",
-    "icon": "https://icons.duckduckgo.com/ip3/crz.ro.ico",
-    "slug": "crz-ro",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 888,
-    "timeDay": 888,
-    "timeWeek": 888,
-    "timeMonth": 888,
-    "timeYear": 888,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Catalin.ro",
     "url": "https://catalin.ro",
     "icon": "https://icons.duckduckgo.com/ip3/catalin.ro.ico",
@@ -36,6 +18,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "CRZ.ro",
+    "url": "https://crz.ro",
+    "icon": "https://icons.duckduckgo.com/ip3/crz.ro.ico",
+    "slug": "crz-ro",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 876,
+    "timeDay": 876,
+    "timeWeek": 876,
+    "timeMonth": 876,
+    "timeYear": 876,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "FashionLady.ro",
     "url": "https://fashionlady.ro",
     "icon": "https://icons.duckduckgo.com/ip3/fashionlady.ro.ico",
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1921,
-    "timeDay": 1921,
-    "timeWeek": 1921,
-    "timeMonth": 1921,
-    "timeYear": 1921,
+    "time": 2071,
+    "timeDay": 2071,
+    "timeWeek": 2071,
+    "timeMonth": 2071,
+    "timeYear": 2071,
     "dailyMinutesDown": {}
   }
 ]
