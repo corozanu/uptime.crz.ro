@@ -5,6 +5,10 @@ repo: uptime.crz.ro # The name of this repository
 sites:
   - name: CRZ.ro
     url: https://crz.ro
+  - name: Catalin.ro
+    url: https://catalin.ro
+  - name: FashionLady.ro
+    url: https://fashionlady.ro
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
