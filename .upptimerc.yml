@@ -3,10 +3,10 @@ owner: corozanu # Your GitHub organization or username, where this repository li
 repo: uptime.crz.ro # The name of this repository
 
 sites:
-  - name: CRZ.ro
-    url: https://crz.ro
   - name: Catalin.ro
     url: https://catalin.ro
+  - name: CRZ.ro
+    url: https://crz.ro
   - name: FashionLady.ro
     url: https://fashionlady.ro
 
