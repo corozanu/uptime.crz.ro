@@ -1,23 +1,21 @@
 [
   {
-    "name": "Catalin.ro",
+    "name": "Cătălin.ro",
     "url": "https://catalin.ro",
     "icon": "https://icons.duckduckgo.com/ip3/catalin.ro.ico",
     "slug": "catalin-ro",
     "status": "down",
-    "uptime": "2.56%",
-    "uptimeDay": "2.56%",
-    "uptimeWeek": "2.56%",
-    "uptimeMonth": "2.56%",
-    "uptimeYear": "2.56%",
-    "time": 163,
-    "timeDay": 163,
-    "timeWeek": 163,
-    "timeMonth": 163,
-    "timeYear": 163,
-    "dailyMinutesDown": {
-      "2022-11-16": 172
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 158,
+    "timeDay": 158,
+    "timeWeek": 158,
+    "timeMonth": 158,
+    "timeYear": 158,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CRZ.ro",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 911,
-    "timeWeek": 911,
-    "timeMonth": 911,
-    "timeYear": 911,
+    "time": 885,
+    "timeDay": 885,
+    "timeWeek": 885,
+    "timeMonth": 885,
+    "timeYear": 885,
     "dailyMinutesDown": {}
   }
 ]
