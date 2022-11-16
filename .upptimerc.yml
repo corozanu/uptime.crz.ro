@@ -12,11 +12,11 @@ status-website:
   cname: uptime.crz.ro
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Uptime Checker - CRZ
+  name: Uptime Checker
   introTitle: "**Uptime Checker**"
   introMessage: text message
   navbar:
-    - title: Uptime Checker
+    - title: Home
       href: /
 
 # Upptime also supports notifications, assigning issues, and more
