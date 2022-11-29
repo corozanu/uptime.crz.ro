@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalin.ro.ico",
     "slug": "catalin-ro",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 310,
-    "timeDay": 814,
-    "timeWeek": 463,
-    "timeMonth": 310,
-    "timeYear": 310,
-    "dailyMinutesDown": {
-      "2022-11-28": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 331,
+    "timeDay": 1084,
+    "timeWeek": 506,
+    "timeMonth": 331,
+    "timeYear": 331,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CRZ.ro",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/crz.ro.ico",
     "slug": "crz-ro",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 831,
-    "timeDay": 381,
-    "timeWeek": 772,
-    "timeMonth": 831,
-    "timeYear": 831,
-    "dailyMinutesDown": {
-      "2022-11-28": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 813,
+    "timeDay": 474,
+    "timeWeek": 713,
+    "timeMonth": 813,
+    "timeYear": 813,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FashionLady.ro",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1996,
-    "timeDay": 2051,
-    "timeWeek": 1961,
-    "timeMonth": 1996,
-    "timeYear": 1996,
+    "time": 2011,
+    "timeDay": 2222,
+    "timeWeek": 1989,
+    "timeMonth": 2011,
+    "timeYear": 2011,
     "dailyMinutesDown": {}
   }
 ]
