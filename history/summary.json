@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/crz.ro.ico",
     "slug": "crz-ro",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 759,
     "timeDay": 364,
     "timeWeek": 533,
     "timeMonth": 759,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2022-12-01": 0
+      "2022-12-01": 23
     }
   },
   {
