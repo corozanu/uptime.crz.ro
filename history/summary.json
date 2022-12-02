@@ -10,11 +10,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 1963,
+    "time": 1901,
     "timeDay": 11779,
-    "timeWeek": 4600,
-    "timeMonth": 1963,
-    "timeYear": 1963,
+    "timeWeek": 4592,
+    "timeMonth": 1901,
+    "timeYear": 1901,
     "dailyMinutesDown": {
       "2022-12-01": 22
     }
@@ -24,17 +24,17 @@
     "url": "https://crz.ro",
     "icon": "https://icons.duckduckgo.com/ip3/crz.ro.ico",
     "slug": "crz-ro",
-    "status": "down",
-    "uptime": "99.89%",
+    "status": "up",
+    "uptime": "99.90%",
     "uptimeDay": "98.38%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 759,
-    "timeDay": 364,
-    "timeWeek": 533,
-    "timeMonth": 759,
-    "timeYear": 759,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 717,
+    "timeDay": 263,
+    "timeWeek": 406,
+    "timeMonth": 717,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2022-12-01": 23
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1963,
-    "timeDay": 1605,
-    "timeWeek": 1864,
-    "timeMonth": 1963,
-    "timeYear": 1963,
+    "time": 1960,
+    "timeDay": 1904,
+    "timeWeek": 1908,
+    "timeMonth": 1960,
+    "timeYear": 1960,
     "dailyMinutesDown": {}
   }
 ]
