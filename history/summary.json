@@ -4,19 +4,19 @@
     "url": "https://catalin.ro",
     "icon": "https://icons.duckduckgo.com/ip3/catalin.ro.ico",
     "slug": "catalin-ro",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1813,
     "timeDay": 541,
     "timeWeek": 4273,
     "timeMonth": 1813,
     "timeYear": 1813,
     "dailyMinutesDown": {
-      "2022-12-03": 14,
+      "2022-12-03": 0,
       "2022-12-01": 22
     }
   },
@@ -25,9 +25,9 @@
     "url": "https://crz.ro",
     "icon": "https://icons.duckduckgo.com/ip3/crz.ro.ico",
     "slug": "crz-ro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -37,6 +37,7 @@
     "timeMonth": 702,
     "timeYear": 702,
     "dailyMinutesDown": {
+      "2022-12-03": 0,
       "2022-12-01": 23
     }
   },
