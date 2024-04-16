@@ -10,11 +10,11 @@
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.42%",
-    "time": 682,
-    "timeDay": 1586,
-    "timeWeek": 4066,
-    "timeMonth": 1714,
-    "timeYear": 754,
+    "time": 684,
+    "timeDay": 1949,
+    "timeWeek": 4814,
+    "timeMonth": 1738,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2024-04-09": 67,
       "2024-04-05": 97,
@@ -31,18 +31,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/crz.ro.ico",
     "slug": "crz-ro",
     "status": "down",
-    "uptime": "26.77%",
+    "uptime": "26.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 201,
-    "timeDay": 127,
-    "timeWeek": 143,
-    "timeMonth": 162,
+    "time": 200,
+    "timeDay": 191,
+    "timeWeek": 154,
+    "timeMonth": 163,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-04-15": 211,
+      "2024-04-16": 74,
+      "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -405,8 +406,7 @@
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
-      "2023-04-18": 1440,
-      "2023-04-17": 1440
+      "2023-04-18": 1440
     }
   },
   {
@@ -415,15 +415,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fashionlady.ro.ico",
     "slug": "fashion-lady-ro",
     "status": "up",
-    "uptime": "92.62%",
+    "uptime": "92.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.29%",
-    "time": 2129,
-    "timeDay": 736,
-    "timeWeek": 773,
-    "timeMonth": 838,
+    "time": 2119,
+    "timeDay": 1297,
+    "timeWeek": 862,
+    "timeMonth": 847,
     "timeYear": 1830,
     "dailyMinutesDown": {
       "2024-02-28": 19,
@@ -467,8 +467,7 @@
       "2023-04-27": 44,
       "2023-04-26": 1343,
       "2023-04-25": 153,
-      "2023-04-18": 18,
-      "2023-04-17": 30
+      "2023-04-18": 18
     }
   }
 ]
