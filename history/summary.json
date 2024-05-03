@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.40%",
-    "time": 706,
-    "timeDay": 822,
-    "timeWeek": 891,
-    "timeMonth": 1947,
-    "timeYear": 809,
+    "time": 708,
+    "timeDay": 1144,
+    "timeWeek": 921,
+    "timeMonth": 2021,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2024-04-22": 75,
       "2024-04-09": 67,
@@ -32,18 +32,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/crz.ro.ico",
     "slug": "crz-ro",
     "status": "down",
-    "uptime": "25.93%",
+    "uptime": "25.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 195,
-    "timeDay": 128,
-    "timeWeek": 158,
+    "timeDay": 143,
+    "timeWeek": 156,
     "timeMonth": 160,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-05-02": 75,
+      "2024-05-03": 79,
+      "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
@@ -406,8 +407,7 @@
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
-      "2023-05-05": 1440,
-      "2023-05-04": 1440
+      "2023-05-05": 1440
     }
   },
   {
@@ -416,16 +416,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fashionlady.ro.ico",
     "slug": "fashion-lady-ro",
     "status": "up",
-    "uptime": "92.86%",
+    "uptime": "92.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.40%",
-    "time": 1981,
-    "timeDay": 643,
-    "timeWeek": 824,
-    "timeMonth": 844,
-    "timeYear": 1252,
+    "uptimeYear": "92.67%",
+    "time": 1971,
+    "timeDay": 999,
+    "timeWeek": 839,
+    "timeMonth": 854,
+    "timeYear": 1251,
     "dailyMinutesDown": {
       "2024-02-28": 19,
       "2024-02-09": 40,
@@ -457,8 +457,7 @@
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
-      "2023-05-05": 1440,
-      "2023-05-04": 1440
+      "2023-05-05": 1440
     }
   }
 ]
