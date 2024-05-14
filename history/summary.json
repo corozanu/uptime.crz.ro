@@ -11,10 +11,10 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.40%",
     "time": 713,
-    "timeDay": 676,
-    "timeWeek": 981,
-    "timeMonth": 1256,
-    "timeYear": 830,
+    "timeDay": 939,
+    "timeWeek": 983,
+    "timeMonth": 1258,
+    "timeYear": 832,
     "dailyMinutesDown": {
       "2024-04-22": 75,
       "2024-04-09": 67,
@@ -32,18 +32,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/crz.ro.ico",
     "slug": "crz-ro",
     "status": "down",
-    "uptime": "25.40%",
+    "uptime": "25.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 191,
-    "timeDay": 141,
-    "timeWeek": 175,
+    "timeDay": 146,
+    "timeWeek": 174,
     "timeMonth": 165,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-05-13": 79,
+      "2024-05-14": 78,
+      "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -406,8 +407,7 @@
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
-      "2023-05-16": 1440,
-      "2023-05-15": 1440
+      "2023-05-16": 1440
     }
   },
   {
@@ -416,16 +416,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fashionlady.ro.ico",
     "slug": "fashion-lady-ro",
     "status": "up",
-    "uptime": "93.00%",
+    "uptime": "93.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.41%",
+    "uptimeYear": "95.69%",
     "time": 1912,
-    "timeDay": 836,
-    "timeWeek": 971,
-    "timeMonth": 886,
-    "timeYear": 1243,
+    "timeDay": 893,
+    "timeWeek": 964,
+    "timeMonth": 892,
+    "timeYear": 1242,
     "dailyMinutesDown": {
       "2024-02-28": 19,
       "2024-02-09": 40,
@@ -446,8 +446,7 @@
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
-      "2023-05-16": 1440,
-      "2023-05-15": 1440
+      "2023-05-16": 1440
     }
   }
 ]
