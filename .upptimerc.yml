@@ -5,10 +5,6 @@ repo: uptime.crz.ro # The name of this repository
 sites:
   - name: Catalin.ro
     url: https://catalin.ro
-  - name: CRZ.ro
-    url: https://crz.ro
-  - name: FashionLady.ro
-    url: https://fashionlady.ro
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime Checker
   introTitle: "**Uptime Checker**"
-  introMessage: text message
+  introMessage: Here i check uptime for my websites.
   navbar:
     - title: Home
       href: /
