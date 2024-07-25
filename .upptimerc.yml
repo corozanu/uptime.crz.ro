@@ -7,6 +7,8 @@ sites:
     url: https://catalin.ro
   - name: Catal.in
     url: https://catal.in
+  - name: FashionLady.ro
+    url: https://fashionlady.ro
     
 assignees: # Users to assign downtime issues (optional)
   - corozanu
