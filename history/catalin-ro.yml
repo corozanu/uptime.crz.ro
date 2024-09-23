@@ -1,7 +1,7 @@
 url: https://catalin.ro
-status: up
-code: 200
-responseTime: 5232
-lastUpdated: 2024-09-23T23:11:08.185Z
+status: down
+code: 401
+responseTime: 488
+lastUpdated: 2024-09-23T23:35:10.512Z
 startTime: 2022-11-16T14:30:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
