@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "96.20%",
-    "time": 1066,
-    "timeDay": 297,
-    "timeWeek": 311,
-    "timeMonth": 253,
+    "time": 1081,
+    "timeDay": 182,
+    "timeWeek": 298,
+    "timeMonth": 254,
     "timeYear": 1102,
     "dailyMinutesDown": {
       "2025-06-03": 34,
@@ -73,8 +73,7 @@
       "2024-07-09": 51,
       "2024-07-08": 19,
       "2024-07-06": 16,
-      "2024-07-04": 36,
-      "2024-07-01": 52
+      "2024-07-04": 36
     }
   },
   {
@@ -83,15 +82,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/catal.in.ico",
     "slug": "catal-in",
     "status": "up",
-    "uptime": "86.49%",
+    "uptime": "86.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "29.76%",
-    "uptimeYear": "86.49%",
+    "uptimeMonth": "36.36%",
+    "uptimeYear": "86.53%",
     "time": 165,
-    "timeDay": 267,
-    "timeWeek": 239,
-    "timeMonth": 213,
+    "timeDay": 158,
+    "timeWeek": 210,
+    "timeMonth": 208,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2025-06-20": 660,
@@ -149,16 +148,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fashionlady.ro.ico",
     "slug": "fashion-lady-ro",
     "status": "up",
-    "uptime": "97.81%",
+    "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "97.93%",
-    "time": 1343,
-    "timeDay": 1995,
-    "timeWeek": 2360,
-    "timeMonth": 2058,
-    "timeYear": 1418,
+    "uptimeYear": "97.94%",
+    "time": 1387,
+    "timeDay": 1236,
+    "timeWeek": 2324,
+    "timeMonth": 2040,
+    "timeYear": 1421,
     "dailyMinutesDown": {
       "2025-06-27": 39,
       "2025-06-10": 70,
@@ -217,8 +216,7 @@
       "2024-07-09": 24,
       "2024-07-08": 19,
       "2024-07-06": 16,
-      "2024-07-04": 36,
-      "2024-07-01": 52
+      "2024-07-04": 36
     }
   }
 ]
