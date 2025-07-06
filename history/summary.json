@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.22%",
-    "time": 1078,
-    "timeDay": 130,
-    "timeWeek": 214,
-    "timeMonth": 262,
-    "timeYear": 1103,
+    "time": 1077,
+    "timeDay": 152,
+    "timeWeek": 211,
+    "timeMonth": 261,
+    "timeYear": 1099,
     "dailyMinutesDown": {
       "2025-06-03": 34,
       "2024-12-31": 671,
@@ -71,8 +71,7 @@
       "2024-07-16": 36,
       "2024-07-12": 17,
       "2024-07-09": 51,
-      "2024-07-08": 19,
-      "2024-07-06": 16
+      "2024-07-08": 19
     }
   },
   {
@@ -81,15 +80,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/catal.in.ico",
     "slug": "catal-in",
     "status": "up",
-    "uptime": "86.68%",
+    "uptime": "86.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.46%",
-    "uptimeYear": "86.68%",
+    "uptimeMonth": "52.79%",
+    "uptimeYear": "86.72%",
     "time": 165,
-    "timeDay": 106,
-    "timeWeek": 177,
-    "timeMonth": 197,
+    "timeDay": 186,
+    "timeWeek": 180,
+    "timeMonth": 196,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2025-06-20": 660,
@@ -150,13 +149,13 @@
     "uptime": "97.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "97.98%",
     "time": 1358,
-    "timeDay": 1746,
-    "timeWeek": 1450,
-    "timeMonth": 1934,
-    "timeYear": 1437,
+    "timeDay": 1749,
+    "timeWeek": 1446,
+    "timeMonth": 1929,
+    "timeYear": 1445,
     "dailyMinutesDown": {
       "2025-06-27": 39,
       "2025-06-10": 70,
@@ -213,8 +212,7 @@
       "2024-07-12": 17,
       "2024-07-11": 16,
       "2024-07-09": 24,
-      "2024-07-08": 19,
-      "2024-07-06": 16
+      "2024-07-08": 19
     }
   }
 ]
