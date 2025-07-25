@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalin.ro.ico",
     "slug": "catalin-ro",
     "status": "up",
-    "uptime": "98.23%",
+    "uptime": "98.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.28%",
-    "time": 1063,
-    "timeDay": 186,
-    "timeWeek": 184,
+    "time": 1079,
+    "timeDay": 184,
+    "timeWeek": 191,
     "timeMonth": 214,
     "timeYear": 1098,
     "dailyMinutesDown": {
@@ -63,8 +63,7 @@
       "2024-07-30": 37,
       "2024-07-28": 18,
       "2024-07-27": 58,
-      "2024-07-26": 74,
-      "2024-07-25": 21
+      "2024-07-26": 74
     }
   },
   {
@@ -73,15 +72,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/catal.in.ico",
     "slug": "catal-in",
     "status": "up",
-    "uptime": "87.38%",
+    "uptime": "87.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.36%",
     "time": 165,
-    "timeDay": 168,
-    "timeWeek": 169,
-    "timeMonth": 174,
+    "timeDay": 161,
+    "timeWeek": 172,
+    "timeMonth": 175,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2025-06-20": 660,
@@ -139,18 +138,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fashionlady.ro.ico",
     "slug": "fashion-lady-ro",
     "status": "down",
-    "uptime": "95.29%",
+    "uptime": "95.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.95%",
-    "uptimeYear": "96.34%",
+    "uptimeMonth": "64.66%",
+    "uptimeYear": "96.07%",
     "time": 1374,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1870,
+    "timeMonth": 1900,
     "timeYear": 1519,
     "dailyMinutesDown": {
-      "2025-07-24": 131,
+      "2025-07-25": 131,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -206,8 +206,7 @@
       "2024-07-30": 37,
       "2024-07-28": 18,
       "2024-07-27": 58,
-      "2024-07-26": 74,
-      "2024-07-25": 21
+      "2024-07-26": 74
     }
   }
 ]
