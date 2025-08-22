@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.36%",
+    "uptimeYear": "96.38%",
     "time": 1068,
-    "timeDay": 262,
-    "timeWeek": 218,
-    "timeMonth": 205,
-    "timeYear": 1119,
+    "timeDay": 237,
+    "timeWeek": 225,
+    "timeMonth": 206,
+    "timeYear": 1121,
     "dailyMinutesDown": {
       "2025-06-03": 34,
       "2024-12-31": 671,
@@ -49,8 +49,7 @@
       "2024-08-29": 18,
       "2024-08-28": 35,
       "2024-08-26": 27,
-      "2024-08-25": 32,
-      "2024-08-22": 116
+      "2024-08-25": 32
     }
   },
   {
@@ -59,16 +58,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/catal.in.ico",
     "slug": "catal-in",
     "status": "up",
-    "uptime": "88.28%",
+    "uptime": "88.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.36%",
-    "time": 170,
-    "timeDay": 512,
-    "timeWeek": 273,
-    "timeMonth": 230,
-    "timeYear": 173,
+    "time": 171,
+    "timeDay": 580,
+    "timeWeek": 330,
+    "timeMonth": 241,
+    "timeYear": 174,
     "dailyMinutesDown": {
       "2025-06-20": 660,
       "2025-06-19": 1440,
@@ -125,18 +124,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fashionlady.ro.ico",
     "slug": "fashion-lady-ro",
     "status": "down",
-    "uptime": "88.48%",
+    "uptime": "88.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.77%",
-    "time": 1550,
+    "uptimeYear": "88.51%",
+    "time": 1551,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1732,
+    "timeYear": 1750,
     "dailyMinutesDown": {
-      "2025-08-21": 116,
+      "2025-08-22": 117,
+      "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
@@ -206,8 +206,7 @@
       "2024-08-29": 18,
       "2024-08-28": 35,
       "2024-08-26": 27,
-      "2024-08-25": 32,
-      "2024-08-22": 116
+      "2024-08-25": 32
     }
   }
 ]
