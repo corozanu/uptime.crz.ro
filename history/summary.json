@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalin.ro.ico",
     "slug": "catalin-ro",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.40%",
-    "time": 1061,
-    "timeDay": 187,
-    "timeWeek": 191,
-    "timeMonth": 202,
+    "uptimeYear": "96.41%",
+    "time": 1060,
+    "timeDay": 138,
+    "timeWeek": 177,
+    "timeMonth": 200,
     "timeYear": 1120,
     "dailyMinutesDown": {
       "2025-06-03": 34,
@@ -45,8 +45,7 @@
       "2024-09-06": 38,
       "2024-09-05": 19,
       "2024-09-04": 17,
-      "2024-09-03": 20,
-      "2024-08-29": 18
+      "2024-09-03": 20
     }
   },
   {
@@ -55,15 +54,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/catal.in.ico",
     "slug": "catal-in",
     "status": "up",
-    "uptime": "88.48%",
+    "uptime": "88.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.36%",
     "time": 174,
-    "timeDay": 216,
-    "timeWeek": 337,
-    "timeMonth": 264,
+    "timeDay": 155,
+    "timeWeek": 276,
+    "timeMonth": 251,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2025-06-20": 660,
@@ -121,18 +120,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fashionlady.ro.ico",
     "slug": "fashion-lady-ro",
     "status": "down",
-    "uptime": "86.93%",
+    "uptime": "86.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.89%",
-    "time": 1558,
+    "uptimeYear": "86.62%",
+    "time": 1559,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1807,
+    "timeYear": 1816,
     "dailyMinutesDown": {
-      "2025-08-28": 113,
+      "2025-08-29": 113,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -205,8 +205,7 @@
       "2024-09-06": 38,
       "2024-09-05": 19,
       "2024-09-04": 17,
-      "2024-09-03": 20,
-      "2024-08-29": 18
+      "2024-09-03": 20
     }
   }
 ]
