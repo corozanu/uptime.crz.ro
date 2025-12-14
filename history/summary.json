@@ -4,19 +4,19 @@
     "url": "https://catalin.ro",
     "icon": "https://icons.duckduckgo.com/ip3/catalin.ro.ico",
     "slug": "catalin-ro",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "81.97%",
-    "uptimeWeek": "76.44%",
-    "uptimeMonth": "92.45%",
+    "uptimeDay": "80.48%",
+    "uptimeWeek": "76.36%",
+    "uptimeMonth": "92.46%",
     "uptimeYear": "99.37%",
-    "time": 961,
-    "timeDay": 1500,
-    "timeWeek": 1076,
-    "timeMonth": 1067,
-    "timeYear": 662,
+    "time": 958,
+    "timeDay": 1456,
+    "timeWeek": 1074,
+    "timeMonth": 1066,
+    "timeYear": 663,
     "dailyMinutesDown": {
-      "2025-12-14": 190,
+      "2025-12-14": 212,
       "2025-12-13": 288,
       "2025-12-12": 273,
       "2025-12-11": 475,
@@ -26,7 +26,7 @@
       "2025-12-07": 182,
       "2025-12-06": 174,
       "2025-12-05": 454,
-      "2025-12-04": 199
+      "2025-12-04": 173
     }
   },
   {
@@ -113,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 2063,
     "dailyMinutesDown": {
-      "2025-12-14": 848,
+      "2025-12-14": 870,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
