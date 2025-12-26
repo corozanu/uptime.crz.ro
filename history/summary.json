@@ -4,15 +4,15 @@
     "url": "https://catalin.ro",
     "icon": "https://icons.duckduckgo.com/ip3/catalin.ro.ico",
     "slug": "catalin-ro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "74.10%",
-    "uptimeWeek": "72.29%",
-    "uptimeMonth": "91.39%",
-    "uptimeYear": "99.28%",
-    "time": 1005,
-    "timeDay": 1072,
-    "timeWeek": 1021,
+    "uptimeDay": "75.96%",
+    "uptimeWeek": "72.52%",
+    "uptimeMonth": "91.44%",
+    "uptimeYear": "99.29%",
+    "time": 1002,
+    "timeDay": 1091,
+    "timeWeek": 1023,
     "timeMonth": 1061,
     "timeYear": 749,
     "dailyMinutesDown": {
@@ -26,7 +26,7 @@
       "2025-12-19": 397,
       "2025-12-18": 336,
       "2025-12-17": 382,
-      "2025-12-16": 245
+      "2025-12-16": 221
     }
   },
   {
@@ -102,7 +102,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fashionlady.ro.ico",
     "slug": "fashion-lady-ro",
     "status": "down",
-    "uptime": "66.81%",
+    "uptime": "66.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -113,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 2108,
     "dailyMinutesDown": {
-      "2025-12-26": 259,
+      "2025-12-26": 302,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
