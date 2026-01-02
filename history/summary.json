@@ -6,14 +6,14 @@
     "slug": "catalin-ro",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "72.22%",
+    "uptimeDay": "74.23%",
     "uptimeWeek": "69.69%",
-    "uptimeMonth": "91.38%",
-    "uptimeYear": "99.28%",
-    "time": 882,
-    "timeDay": 1002,
-    "timeWeek": 1000,
-    "timeMonth": 1035,
+    "uptimeMonth": "91.42%",
+    "uptimeYear": "99.29%",
+    "time": 878,
+    "timeDay": 1005,
+    "timeWeek": 999,
+    "timeMonth": 1034,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2026-01-02": 311,
@@ -25,7 +25,7 @@
       "2025-12-27": 443,
       "2025-12-26": 417,
       "2025-12-25": 247,
-      "2025-12-24": 251
+      "2025-12-24": 231
     }
   },
   {
@@ -105,14 +105,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.67%",
+    "uptimeYear": "52.66%",
     "time": 1928,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2107,
     "dailyMinutesDown": {
-      "2026-01-02": 879,
+      "2026-01-02": 941,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
