@@ -4,19 +4,19 @@
     "url": "https://catalin.ro",
     "icon": "https://icons.duckduckgo.com/ip3/catalin.ro.ico",
     "slug": "catalin-ro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "70.49%",
-    "uptimeWeek": "69.32%",
-    "uptimeMonth": "85.87%",
-    "uptimeYear": "98.82%",
+    "uptimeDay": "72.38%",
+    "uptimeWeek": "69.31%",
+    "uptimeMonth": "85.96%",
+    "uptimeYear": "98.83%",
     "time": 927,
     "timeDay": 1656,
     "timeWeek": 1622,
     "timeMonth": 1563,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2026-02-25": 217,
+      "2026-02-25": 218,
       "2026-02-24": 525,
       "2026-02-23": 383,
       "2026-02-22": 603,
@@ -30,8 +30,7 @@
       "2026-02-14": 356,
       "2026-02-13": 381,
       "2026-02-12": 386,
-      "2026-02-11": 475,
-      "2026-02-10": 43
+      "2026-02-11": 475
     }
   },
   {
@@ -39,12 +38,12 @@
     "url": "https://catal.in",
     "icon": "https://icons.duckduckgo.com/ip3/catal.in.ico",
     "slug": "catal-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "70.66%",
+    "uptimeDay": "72.58%",
     "uptimeWeek": "69.54%",
-    "uptimeMonth": "85.98%",
-    "uptimeYear": "98.83%",
+    "uptimeMonth": "86.07%",
+    "uptimeYear": "98.84%",
     "time": 412,
     "timeDay": 1061,
     "timeWeek": 1194,
@@ -65,8 +64,7 @@
       "2026-02-14": 352,
       "2026-02-13": 380,
       "2026-02-12": 384,
-      "2026-02-11": 473,
-      "2026-02-10": 42
+      "2026-02-11": 473
     }
   },
   {
@@ -75,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fashionlady.ro.ico",
     "slug": "fashion-lady-ro",
     "status": "down",
-    "uptime": "59.75%",
+    "uptime": "59.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -86,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 1868,
     "dailyMinutesDown": {
-      "2026-02-25": 697,
+      "2026-02-25": 725,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
