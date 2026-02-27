@@ -4,11 +4,11 @@
     "url": "https://catalin.ro",
     "icon": "https://icons.duckduckgo.com/ip3/catalin.ro.ico",
     "slug": "catalin-ro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "75.10%",
-    "uptimeWeek": "70.81%",
-    "uptimeMonth": "85.79%",
+    "uptimeDay": "77.61%",
+    "uptimeWeek": "70.80%",
+    "uptimeMonth": "85.83%",
     "uptimeYear": "98.82%",
     "time": 929,
     "timeDay": 1624,
@@ -16,7 +16,7 @@
     "timeMonth": 1569,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2026-02-27": 314,
+      "2026-02-27": 315,
       "2026-02-26": 385,
       "2026-02-25": 437,
       "2026-02-24": 525,
@@ -30,8 +30,7 @@
       "2026-02-16": 363,
       "2026-02-15": 385,
       "2026-02-14": 356,
-      "2026-02-13": 381,
-      "2026-02-12": 20
+      "2026-02-13": 381
     }
   },
   {
@@ -39,12 +38,12 @@
     "url": "https://catal.in",
     "icon": "https://icons.duckduckgo.com/ip3/catal.in.ico",
     "slug": "catal-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "75.27%",
+    "uptimeDay": "77.78%",
     "uptimeWeek": "71.03%",
-    "uptimeMonth": "85.90%",
-    "uptimeYear": "98.82%",
+    "uptimeMonth": "85.94%",
+    "uptimeYear": "98.83%",
     "time": 443,
     "timeDay": 1191,
     "timeWeek": 1219,
@@ -65,8 +64,7 @@
       "2026-02-16": 360,
       "2026-02-15": 381,
       "2026-02-14": 352,
-      "2026-02-13": 380,
-      "2026-02-12": 19
+      "2026-02-13": 380
     }
   },
   {
@@ -75,18 +73,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fashionlady.ro.ico",
     "slug": "fashion-lady-ro",
     "status": "down",
-    "uptime": "59.52%",
+    "uptime": "59.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.38%",
+    "uptimeYear": "37.36%",
     "time": 2063,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1872,
     "dailyMinutesDown": {
-      "2026-02-27": 1071,
+      "2026-02-27": 1183,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
