@@ -3,12 +3,14 @@ owner: corozanu # Your GitHub organization or username, where this repository li
 repo: uptime.crz.ro # The name of this repository
 
 sites:
-  - name: Catalin.ro
-    url: https://catalin.ro
-  - name: Catal.in
+  - name: crz.ro
+    url: https://crz.ro
+  - name: catalin.blog
+    url: https://catalin.blog
+  - name: catal.in
     url: https://catal.in
-  - name: FashionLady.ro
-    url: https://fashionlady.ro
+  - name: catalin.info
+    url: https://catalin.info
     
 assignees: # Users to assign downtime issues (optional)
   - corozanu
