@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalin.blog.ico",
     "slug": "catalin-blog",
     "status": "down",
-    "uptime": "95.49%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "98.13%",
-    "uptimeYear": "95.49%",
+    "uptime": "95.42%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "94.72%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "95.42%",
     "time": 1619,
     "timeDay": 2059,
     "timeWeek": 1913,
@@ -72,7 +72,7 @@
       "2026-05-21": 52,
       "2026-05-23": 326,
       "2026-05-24": 50,
-      "2026-05-26": 10
+      "2026-05-26": 104
     }
   },
   {
@@ -81,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/catal.in.ico",
     "slug": "catal-in",
     "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "95.89%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.82%",
+    "uptime": "99.35%",
+    "uptimeDay": "93.15%",
+    "uptimeWeek": "94.96%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "98.80%",
     "time": 713,
     "timeDay": 1028,
     "timeWeek": 978,
@@ -127,7 +127,7 @@
       "2026-05-21": 48,
       "2026-05-23": 316,
       "2026-05-24": 45,
-      "2026-05-26": 5
+      "2026-05-26": 99
     }
   },
   {
@@ -135,17 +135,17 @@
     "url": "https://catalin.info",
     "icon": "https://icons.duckduckgo.com/ip3/catalin.info.ico",
     "slug": "catalin-info",
-    "status": "down",
-    "uptime": "94.83%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "96.13%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "94.83%",
-    "time": 1197,
-    "timeDay": 1181,
-    "timeWeek": 1006,
-    "timeMonth": 1030,
-    "timeYear": 1197,
+    "status": "up",
+    "uptime": "94.75%",
+    "uptimeDay": "93.49%",
+    "uptimeWeek": "95.20%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "94.75%",
+    "time": 1246,
+    "timeDay": 6608,
+    "timeWeek": 1925,
+    "timeMonth": 1313,
+    "timeYear": 1246,
     "dailyMinutesDown": {
       "2026-03-13": 75,
       "2026-03-14": 714,
@@ -182,7 +182,7 @@
       "2026-05-21": 43,
       "2026-05-23": 307,
       "2026-05-24": 40,
-      "2026-05-26": 0
+      "2026-05-26": 94
     }
   }
 ]
