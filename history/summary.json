@@ -22,12 +22,12 @@
     "url": "https://catalin.blog",
     "icon": "https://icons.duckduckgo.com/ip3/catalin.blog.ico",
     "slug": "catalin-blog",
-    "status": "up",
-    "uptime": "95.38%",
-    "uptimeDay": "88.61%",
-    "uptimeWeek": "94.12%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "95.38%",
+    "status": "down",
+    "uptime": "95.40%",
+    "uptimeDay": "87.93%",
+    "uptimeWeek": "94.02%",
+    "uptimeMonth": "97.76%",
+    "uptimeYear": "95.40%",
     "time": 1617,
     "timeDay": 1460,
     "timeWeek": 1817,
@@ -72,7 +72,8 @@
       "2026-05-21": 52,
       "2026-05-23": 326,
       "2026-05-24": 50,
-      "2026-05-26": 164
+      "2026-05-26": 164,
+      "2026-05-27": 10
     }
   },
   {
@@ -80,19 +81,19 @@
     "url": "https://catal.in",
     "icon": "https://icons.duckduckgo.com/ip3/catal.in.ico",
     "slug": "catal-in",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "88.95%",
-    "uptimeWeek": "94.36%",
-    "uptimeMonth": "97.86%",
-    "uptimeYear": "98.79%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "88.60%",
+    "uptimeWeek": "94.31%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "98.80%",
     "time": 715,
     "timeDay": 778,
     "timeWeek": 942,
     "timeMonth": 915,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2026-03-13": 112,
+      "2026-03-13": 75,
       "2026-03-14": 719,
       "2026-03-15": 319,
       "2026-03-16": 489,
@@ -127,7 +128,8 @@
       "2026-05-21": 48,
       "2026-05-23": 316,
       "2026-05-24": 45,
-      "2026-05-26": 159
+      "2026-05-26": 159,
+      "2026-05-27": 5
     }
   },
   {
@@ -135,20 +137,20 @@
     "url": "https://catalin.info",
     "icon": "https://icons.duckduckgo.com/ip3/catalin.info.ico",
     "slug": "catalin-info",
-    "status": "up",
-    "uptime": "94.77%",
-    "uptimeDay": "93.49%",
+    "status": "down",
+    "uptime": "94.85%",
+    "uptimeDay": "93.48%",
     "uptimeWeek": "95.20%",
     "uptimeMonth": "98.08%",
-    "uptimeYear": "94.77%",
+    "uptimeYear": "94.85%",
     "time": 1244,
     "timeDay": 6397,
     "timeWeek": 1904,
     "timeMonth": 1306,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2026-03-13": 75,
       "2026-03-14": 714,
+      "2026-03-13": 23,
       "2026-03-15": 313,
       "2026-03-16": 484,
       "2026-03-17": 611,
@@ -182,7 +184,8 @@
       "2026-05-21": 43,
       "2026-05-23": 307,
       "2026-05-24": 40,
-      "2026-05-26": 94
+      "2026-05-26": 94,
+      "2026-05-27": 0
     }
   }
 ]
