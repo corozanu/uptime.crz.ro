@@ -23,14 +23,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalin.blog.ico",
     "slug": "catalin-blog",
     "status": "down",
-    "uptime": "93.86%",
-    "uptimeDay": "88.35%",
-    "uptimeWeek": "88.65%",
-    "uptimeMonth": "89.55%",
-    "uptimeYear": "93.86%",
+    "uptime": "93.77%",
+    "uptimeDay": "77.45%",
+    "uptimeWeek": "87.36%",
+    "uptimeMonth": "89.19%",
+    "uptimeYear": "93.77%",
     "time": 1677,
     "timeDay": 1695,
-    "timeWeek": 1536,
+    "timeWeek": 1555,
     "timeMonth": 1833,
     "timeYear": 1677,
     "dailyMinutesDown": {
@@ -98,7 +98,7 @@
       "2026-06-25": 75,
       "2026-06-24": 37,
       "2026-06-26": 167,
-      "2026-06-27": 1
+      "2026-06-27": 158
     }
   },
   {
@@ -107,14 +107,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/catal.in.ico",
     "slug": "catal-in",
     "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "88.70%",
-    "uptimeWeek": "88.99%",
-    "uptimeMonth": "90.30%",
-    "uptimeYear": "98.42%",
+    "uptime": "99.16%",
+    "uptimeDay": "77.80%",
+    "uptimeWeek": "87.69%",
+    "uptimeMonth": "89.94%",
+    "uptimeYear": "98.39%",
     "time": 743,
     "timeDay": 813,
-    "timeWeek": 784,
+    "timeWeek": 790,
     "timeMonth": 1188,
     "timeYear": 841,
     "dailyMinutesDown": {
@@ -174,7 +174,7 @@
       "2026-06-25": 70,
       "2026-06-24": 32,
       "2026-06-26": 162,
-      "2026-06-27": 0
+      "2026-06-27": 157
     }
   },
   {
@@ -183,14 +183,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalin.info.ico",
     "slug": "catalin-info",
     "status": "down",
-    "uptime": "95.11%",
-    "uptimeDay": "89.05%",
-    "uptimeWeek": "89.33%",
-    "uptimeMonth": "90.83%",
-    "uptimeYear": "95.11%",
+    "uptime": "95.02%",
+    "uptimeDay": "78.15%",
+    "uptimeWeek": "88.03%",
+    "uptimeMonth": "90.47%",
+    "uptimeYear": "95.02%",
     "time": 1249,
     "timeDay": 876,
-    "timeWeek": 861,
+    "timeWeek": 875,
     "timeMonth": 1271,
     "timeYear": 1249,
     "dailyMinutesDown": {
@@ -250,7 +250,7 @@
       "2026-06-25": 66,
       "2026-06-24": 27,
       "2026-06-26": 157,
-      "2026-06-27": 0
+      "2026-06-27": 157
     }
   }
 ]
