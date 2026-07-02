@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalin.blog.ico",
     "slug": "catalin-blog",
     "status": "down",
-    "uptime": "93.80%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "86.45%",
-    "uptimeMonth": "87.92%",
-    "uptimeYear": "93.80%",
+    "uptime": "93.73%",
+    "uptimeDay": "91.00%",
+    "uptimeWeek": "85.27%",
+    "uptimeMonth": "87.64%",
+    "uptimeYear": "93.73%",
     "time": 1682,
     "timeDay": 1755,
     "timeWeek": 1717,
@@ -97,7 +97,7 @@
       "2026-06-26": 167,
       "2026-06-27": 704,
       "2026-06-28": 410,
-      "2026-07-02": 10
+      "2026-07-02": 130
     }
   },
   {
@@ -106,11 +106,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/catal.in.ico",
     "slug": "catal-in",
     "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "86.94%",
-    "uptimeMonth": "88.71%",
-    "uptimeYear": "98.30%",
+    "uptime": "99.11%",
+    "uptimeDay": "91.34%",
+    "uptimeWeek": "85.75%",
+    "uptimeMonth": "88.44%",
+    "uptimeYear": "98.28%",
     "time": 760,
     "timeDay": 719,
     "timeWeek": 848,
@@ -174,7 +174,7 @@
       "2026-06-26": 162,
       "2026-06-27": 685,
       "2026-06-28": 396,
-      "2026-07-02": 5
+      "2026-07-02": 125
     }
   },
   {
@@ -183,11 +183,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalin.info.ico",
     "slug": "catalin-info",
     "status": "down",
-    "uptime": "95.05%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "87.42%",
-    "uptimeMonth": "89.29%",
-    "uptimeYear": "95.05%",
+    "uptime": "94.99%",
+    "uptimeDay": "91.67%",
+    "uptimeWeek": "86.23%",
+    "uptimeMonth": "89.01%",
+    "uptimeYear": "94.99%",
     "time": 1237,
     "timeDay": 949,
     "timeWeek": 913,
@@ -251,7 +251,7 @@
       "2026-06-26": 157,
       "2026-06-27": 666,
       "2026-06-28": 382,
-      "2026-07-02": 0
+      "2026-07-02": 120
     }
   }
 ]
