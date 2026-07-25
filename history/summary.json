@@ -22,19 +22,19 @@
     "url": "https://catalin.blog",
     "icon": "https://icons.duckduckgo.com/ip3/catalin.blog.ico",
     "slug": "catalin-blog",
-    "status": "up",
-    "uptime": "94.36%",
-    "uptimeDay": "87.20%",
-    "uptimeWeek": "97.84%",
-    "uptimeMonth": "93.19%",
-    "uptimeYear": "94.36%",
+    "status": "down",
+    "uptime": "94.46%",
+    "uptimeDay": "86.52%",
+    "uptimeWeek": "97.74%",
+    "uptimeMonth": "93.17%",
+    "uptimeYear": "94.46%",
     "time": 1677,
     "timeDay": 1599,
     "timeWeek": 1701,
     "timeMonth": 1665,
     "timeYear": 1677,
     "dailyMinutesDown": {
-      "2026-03-16": 304,
+      "2026-03-16": 121,
       "2026-03-21": 174,
       "2026-03-22": 1196,
       "2026-03-23": 55,
@@ -102,7 +102,8 @@
       "2026-07-12": 106,
       "2026-07-15": 246,
       "2026-07-18": 33,
-      "2026-07-24": 185
+      "2026-07-24": 185,
+      "2026-07-25": 10
     }
   },
   {
@@ -110,19 +111,19 @@
     "url": "https://catal.in",
     "icon": "https://icons.duckduckgo.com/ip3/catal.in.ico",
     "slug": "catal-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "87.87%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "93.90%",
+    "uptimeDay": "87.52%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "93.89%",
     "uptimeYear": "98.22%",
-    "time": 802,
+    "time": 803,
     "timeDay": 791,
     "timeWeek": 812,
     "timeMonth": 813,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2026-03-21": 189,
+      "2026-03-21": 165,
       "2026-03-22": 271,
       "2026-03-23": 54,
       "2026-03-24": 51,
@@ -186,7 +187,8 @@
       "2026-07-12": 96,
       "2026-07-15": 46,
       "2026-07-18": 29,
-      "2026-07-24": 175
+      "2026-07-24": 175,
+      "2026-07-25": 5
     }
   },
   {
@@ -194,19 +196,19 @@
     "url": "https://catalin.info",
     "icon": "https://icons.duckduckgo.com/ip3/catalin.info.ico",
     "slug": "catalin-info",
-    "status": "up",
-    "uptime": "95.60%",
-    "uptimeDay": "88.54%",
+    "status": "down",
+    "uptime": "95.62%",
+    "uptimeDay": "88.53%",
     "uptimeWeek": "98.13%",
     "uptimeMonth": "94.17%",
-    "uptimeYear": "95.60%",
+    "uptimeYear": "95.62%",
     "time": 1195,
     "timeDay": 841,
     "timeWeek": 883,
     "timeMonth": 868,
     "timeYear": 1195,
     "dailyMinutesDown": {
-      "2026-03-21": 132,
+      "2026-03-21": 107,
       "2026-03-22": 292,
       "2026-03-23": 54,
       "2026-03-24": 50,
@@ -270,7 +272,8 @@
       "2026-07-12": 88,
       "2026-07-15": 41,
       "2026-07-18": 24,
-      "2026-07-24": 165
+      "2026-07-24": 165,
+      "2026-07-25": 0
     }
   }
 ]
