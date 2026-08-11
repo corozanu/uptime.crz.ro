@@ -22,19 +22,18 @@
     "url": "https://catalin.blog",
     "icon": "https://icons.duckduckgo.com/ip3/catalin.blog.ico",
     "slug": "catalin-blog",
-    "status": "up",
-    "uptime": "94.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "94.89%",
+    "status": "down",
+    "uptime": "95.43%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "95.43%",
     "time": 1686,
     "timeDay": 1419,
     "timeWeek": 1535,
-    "timeMonth": 1714,
+    "timeMonth": 1716,
     "timeYear": 1686,
     "dailyMinutesDown": {
-      "2026-03-22": 1196,
       "2026-03-23": 55,
       "2026-03-24": 51,
       "2026-03-25": 23,
@@ -105,7 +104,8 @@
       "2026-07-27": 130,
       "2026-07-28": 65,
       "2026-07-30": 237,
-      "2026-07-31": 118
+      "2026-07-31": 118,
+      "2026-08-11": 1
     }
   },
   {
@@ -113,19 +113,19 @@
     "url": "https://catal.in",
     "icon": "https://icons.duckduckgo.com/ip3/catal.in.ico",
     "slug": "catal-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "98.15%",
-    "time": 831,
+    "uptimeMonth": "97.79%",
+    "uptimeYear": "98.16%",
+    "time": 832,
     "timeDay": 738,
     "timeWeek": 810,
-    "timeMonth": 852,
+    "timeMonth": 854,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2026-03-22": 182,
+      "2026-03-22": 151,
       "2026-03-23": 54,
       "2026-03-24": 51,
       "2026-03-25": 22,
@@ -193,7 +193,8 @@
       "2026-07-27": 125,
       "2026-07-28": 60,
       "2026-07-30": 228,
-      "2026-07-31": 113
+      "2026-07-31": 113,
+      "2026-08-11": 0
     }
   },
   {
@@ -201,19 +202,19 @@
     "url": "https://catalin.info",
     "icon": "https://icons.duckduckgo.com/ip3/catalin.info.ico",
     "slug": "catalin-info",
-    "status": "up",
-    "uptime": "95.96%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.97%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.89%",
-    "uptimeYear": "95.96%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "95.97%",
     "time": 1182,
     "timeDay": 783,
     "timeWeek": 826,
-    "timeMonth": 932,
+    "timeMonth": 933,
     "timeYear": 1182,
     "dailyMinutesDown": {
-      "2026-03-22": 204,
+      "2026-03-22": 174,
       "2026-03-23": 54,
       "2026-03-24": 50,
       "2026-03-25": 22,
@@ -280,7 +281,8 @@
       "2026-07-25": 88,
       "2026-07-27": 120,
       "2026-07-28": 56,
-      "2026-07-30": 218
+      "2026-07-30": 218,
+      "2026-08-11": 0
     }
   }
 ]
